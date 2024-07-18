@@ -4,9 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vitianlalit&label=Profile%20views&color=0e75b6&style=flat" alt="vitianlalit" /> </p>
 
 <img align="right" alt="coding" width="410" src="https://github.com/VITianLalit/VITianLalit/blob/main/animatedImage.gif">
-- 🌱 I’m currently learning **Flutter Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/VITianLalit](https://github.com/VITianLalit)
+  
+- 🌱 I’m currently learning **Flutter Development**
 
 - 💬 Ask me about **Dart, Flutter, Firebase**
 
